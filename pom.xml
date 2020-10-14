@@ -166,7 +166,7 @@
         <commons-lang3.version>3.10</commons-lang3.version>
         <auto-value.version>1.7.3</auto-value.version>
         <jackson.version>2.11.0</jackson.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jsonld.java.version>0.13.0</jsonld.java.version>
         <mongodb.version>3.12.7</mongodb.version>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
