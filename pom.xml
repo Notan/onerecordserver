@@ -173,7 +173,7 @@
         <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
         <cz.cvut.kbss.jopa.version>0.15.0</cz.cvut.kbss.jopa.version>
         <cz.cvut.kbss.jb4jsonld.version>0.8.0</cz.cvut.kbss.jb4jsonld.version>
-        <bouncycastle.version>1.65</bouncycastle.version>
+        <bouncycastle.version>1.68</bouncycastle.version>
         <path.to.nginx.ssl_certificate>src/main/resources/ssl_certificate.crt</path.to.nginx.ssl_certificate>
         <path.to.nginx.ssl_certificate_key>src/main/resources/ssl_certificate_key.key</path.to.nginx.ssl_certificate_key>
         <path.to.nginx.ssl_client_certificate>src/main/resources/ssl_client_certificate.crt</path.to.nginx.ssl_client_certificate>
